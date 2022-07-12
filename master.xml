@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote name="origin" fetch=".."/>
-	<default remote="origin" revision="master" sync-j="4"/>
+        <remote name="origin" fetch=".."/>
+        <default remote="origin" revision="master" sync-j="4"/>
 
-	<project name="u-boot" 			path="u-boot" 			revision="master" 	upstream="master"/>
-	<project name="tools" 			path="tools" 			revision="master" 	upstream="master"/>
-	<project name="packages" 		path="packages" 		revision="master" 	upstream="master"/>
-	<project name="packages_rm20a" 	path="packages_rm20a" 	revision="master"  	upstream="master"/>
-	<project name="kernel" 			path="kernel" 			revision="master" 	upstream="master"/>
-	<project name="driver" 			path="driver" 			revision="master" 	upstream="master"/>
-	<project name="device" 			path="device" 			revision="master" 	upstream="master"/>
-	<project name="buildroot" 		path="buildroot" 		revision="master" 	upstream="master"/>
-	<project name="build" 			path="build" 			revision="master" 	upstream="master"/>
-	<project name="bootloader" 		path="bootloader" 		revision="master" 	upstream="master"/>
+        <project name="note_index"      path="note_index"       revision="master"       upstream="master"/>
+        <project name="note_linx_env"   path="note_linux_env"   revision="master"       upstream="master"/>
+        <project name="note_linux_bsp"  path="note_linux_bsp"   revision="master"       upstream="master"/>
+        <project name="note_linux_app"  path="note_linux_app"   revision="master"       upstream="master"/>
+        <project name="note_windows"    path="note_windows"     revision="master"       upstream="master"/>
+        <project name="note_templete"   path="note_templete"    revision="master"       upstream="master"/>
 </manifest>
