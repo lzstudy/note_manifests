@@ -3,13 +3,16 @@
         <remote name="origin" fetch="."/>
         <default remote="origin" revision="master" sync-j="4"/>
 
-        <project name="note_index"        path="note_index"        revision="master"       upstream="master"/>
-        <project name="note_linux_env"    path="note_linux_env"    revision="master"       upstream="master"/>
-        <project name="note_linux_bsp"    path="note_linux_bsp"    revision="master"       upstream="master"/>
-		<project name="note_linux_app"    path="note_linux_app"    revision="master"       upstream="master"/>
-        <project name="note_linux_driver" path="note_linux_driver" revision="master"       upstream="master"/>
-        <project name="note_linux_kernel" path="note_linux_kernel" revision="master"       upstream="master"/>
-        <project name="note_linux_system" path="note_linux_system" revision="master"       upstream="master"/>
-        <project name="note_windows"      path="note_windows"      revision="master"       upstream="master"/>
-        <project name="note_templete"     path="note_templete"     revision="master"       upstream="master"/>
+        <project name="note_index"          path="note_index"          revision="master"       upstream="master"/>
+        <project name="note_linux_env"      path="note_linux_env"      revision="master"       upstream="master"/>
+        <project name="note_linux_bsp"      path="note_linux_bsp"      revision="master"       upstream="master"/>
+		<project name="note_linux_app"      path="note_linux_app"      revision="master"       upstream="master"/>
+        <project name="note_linux_driver"   path="note_linux_driver"   revision="master"       upstream="master"/>
+        <project name="note_linux_kernel"   path="note_linux_kernel"   revision="master"       upstream="master"/>
+        <project name="note_linux_system"   path="note_linux_system"   revision="master"       upstream="master"/>
+        <project name="note_linux_platform" path="note_linux_platform" revision="master"       upstream="master"/>
+        <project name="note_profess"        path="note_profess"        revision="master"       upstream="master"/>
+        <project name="note_windows"        path="note_windows"        revision="master"       upstream="master"/>
+        <project name="note_templete"       path="note_templete"       revision="master"       upstream="master"/>
+        <project name="note_script"         path="note_script"         revision="master"       upstream="master"/>
 </manifest>
