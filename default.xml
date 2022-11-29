@@ -13,6 +13,6 @@
         <project name="note_linux_platform" path="note_linux_platform" revision="master"       upstream="master"/>
         <project name="note_profess"        path="note_profess"        revision="master"       upstream="master"/>
         <project name="note_windows"        path="note_windows"        revision="master"       upstream="master"/>
-        <project name="note_templete"       path="note_templete"       revision="master"       upstream="master"/>
+        <project name="note_info"           path="note_info"           revision="master"       upstream="master"/>
         <project name="note_script"         path="note_script"         revision="master"       upstream="master"/>
 </manifest>
