@@ -9,5 +9,6 @@
 		<project name="note_linux_app"      path="note_linux_app"      revision="master"       upstream="master"/>
         <project name="note_linux_driver"   path="note_linux_driver"   revision="master"       upstream="master"/>
         <project name="note_linux_kernel"   path="note_linux_kernel"   revision="master"       upstream="master"/>
+        <project name="note_linux_zw"       path="note_linux_zw"       revision="master"       upstream="master"/>
         <project name="note_script"         path="note_script"         revision="master"       upstream="master"/>
 </manifest>
